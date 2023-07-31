@@ -1,0 +1,89 @@
+html{
+    background-color: rgb(2, 2, 54);
+    margin: 90px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#intro{
+    background-color: rgb(39, 39, 77);
+    margin: 10px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    padding: 10px 20px 50px 20px;
+}
+#profile{
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border-color: yellow;
+    border: 5px solid yellow;
+    float: left;
+    margin-right: 10px;
+}
+h2{
+    margin-left: 10px;
+}
+#about{
+    width: 100px;
+    margin: 5px;
+    font-size: 15pt;
+    font-family: 'Noto Serif Vithkuqi', serif;
+}
+#contact{
+    width: 100px;
+    margin: 5px;
+    font-size: 15pt;
+    font-family: 'Noto Serif Vithkuqi', serif;
+}
+#links{
+    width: 100%;
+    margin: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+    padding: 5px 20px 5px 5px;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: yellow;
+}
+p{
+    padding-left: 20px;
+    text-align: left;
+    color: white;
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#first{
+    align-items: end;
+    float:left;
+    margin-right: 50px;
+}
+.section{
+    padding-left: 10px;
+    font-size: 15pt;
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+    background-color: rgb(114, 84, 142);
+    color: whitesmoke;
+    border-radius: 8px;
+}
+.projects{
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    text-align: justify;
+    color: azure;
+}
+.image{
+    width: fit-content;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 130px;
+}
